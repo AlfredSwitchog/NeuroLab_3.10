@@ -1,0 +1,11 @@
+string1 = "Daune"
+string2 = "Daunen"
+
+--> is this the correct awnser?
+--> What guideline can we give to assess this
+--> My suggestion use Leveinstein algorithm as a criterion not human assessment
+
+Word1    Word2      Response
+Dromedar Rosenkohl  Weißkohl
+Nashorn  Weißkohl   Rosenkohl
+--> Is this confusing that we have Weißkohl and Rosenkohl?
