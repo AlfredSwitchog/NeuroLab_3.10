@@ -1,0 +1,3 @@
+﻿key_resp.keys,key_resp.rt,key_resp.duration,participant,date,expName,psychopyVersion,OS,frameRate,Response.text,accept.keys,accept.corr,accept.rt,accept.duration,recall_loop.thisRepN,recall_loop.thisTrialN,recall_loop.thisN,recall_loop.thisIndex,recall_loop.ran,Word1,Emo_condition,Word2,Ima_condition
+return,3.392,,SI96LL050624,2024-06-05_08h10.33.610,SNORE_recall_online,2023.1.3,Win32,59.95203837,,,,,,,,,,,,,,
+,,,SI96LL050624,2024-06-05_08h10.33.610,SNORE_recall_online,2023.1.3,Win32,59.95203837,,"[""return""]",0,[0.4209999999999994],[null],0,0,0,0,1,Floh,None,Vanille,None

@@ -1,6 +1,13 @@
 string1 = "Daune"
 string2 = "Daunen"
 
+Zeit,Zit
+Handel,handel
+Kopfweh,Kopfschmerz --> wrong?
+Rennwagen,Rennauto
+
+
+
 --> is this the correct awnser?
 --> What guideline can we give to assess this
 --> My suggestion use Leveinstein algorithm as a criterion not human assessment
