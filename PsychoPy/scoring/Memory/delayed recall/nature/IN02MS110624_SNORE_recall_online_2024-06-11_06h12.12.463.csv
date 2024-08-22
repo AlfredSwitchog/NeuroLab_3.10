@@ -1,0 +1,79 @@
+﻿key_resp.keys,key_resp.rt,key_resp.duration,participant,date,expName,psychopyVersion,OS,frameRate,Response.text,accept.keys,accept.corr,accept.rt,accept.duration,recall_loop.thisRepN,recall_loop.thisTrialN,recall_loop.thisN,recall_loop.thisIndex,recall_loop.ran,Word1,WORD_length1,Emo_condition,length_group_emo,Word2,WORD_length2,Ima_condition,length_group_ima
+return,11.069,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,,,,,,,,,,,,,,,,,,
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"
+
+","[""return""]",0,[8.576999999999998],[null],0,0,0,14,1,Käfer,5,emo_mid,short_word,Hengst,6,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Ei
+","[""return""]",0,[2.1769999999999996],[null],0,1,1,3,1,Gaul,4,emo_mid,short_word,Ei,2,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,Blutegel,"[""return""]",0,[74.74800000000002],[null],0,2,2,18,1,Habicht,7,emo_mid,long_word,Blutegel,8,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Rosenkohl
+","[""return""]",0,[6.496999999999986],[null],0,3,3,25,1,Dromedar,8,emo_mid,long_word,Rosenkohl,9,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Krähe
+","[""return""]",0,[6.645999999999987],[null],0,4,4,17,1,Busch,5,emo_mid,short_word,Krähe,5,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"
+
+","[""return""]",0,[18.845],[null],0,5,5,28,1,Kardinal,8,emo_mid,long_word,Sellerie,8,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Ente
+","[""return""]",0,[2.562999999999988],[null],0,6,6,13,1,Zeder,5,emo_mid,short_word,Ente,4,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Fisch
+","[""return""]",0,[3.412000000000006],[null],0,7,7,10,1,Raupe,5,emo_mid,short_word,Fisch,5,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Krähe
+","[""return""]",0,[11.576999999999998],[null],0,8,8,32,1,Strauch,7,emo_mid,long_word,Rebhuhn,7,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"
+
+","[""return""]",0,[2.275999999999982],[null],0,9,9,34,1,Krokodil,8,emo_mid,long_word,Seeigel,7,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Stinktier
+","[""return""]",0,[6.720999999999975],[null],0,10,10,31,1,Eidechse,8,emo_mid,long_word,Stinktier,9,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Gras
+","[""return""]",0,[2.5490000000000066],[null],0,11,11,2,1,Hafer,5,emo_mid,short_word,Gras,4,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Frucht
+","[""return""]",0,[4.2690000000000055],[null],0,12,12,7,1,Boxer,5,emo_mid,short_word,Frucht,6,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Walnuss
+","[""return""]",0,[3.5790000000000077],[null],0,13,13,30,1,Lorbeer,7,emo_mid,long_word,Walnuss,7,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Bock
+","[""return""]",0,[2.279000000000025],[null],0,14,14,5,1,Quitte,6,emo_mid,short_word,Bock,4,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Thunfisch
+","[""return""]",0,[4.813000000000017],[null],0,15,15,27,1,Admiral,7,emo_mid,long_word,Thunfisch,9,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Brombeere
+","[""return""]",0,[3.97799999999998],[null],0,16,16,23,1,Sprosse,7,emo_mid,long_word,Brombeere,9,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Spargel
+","[""return""]",0,[4.0940000000000225],[null],0,17,17,26,1,Knoblauch,9,emo_mid,long_word,Spargel,7,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Bulle
+","[""return""]",0,[8.030000000000001],[null],0,18,18,0,1,Spore,5,emo_mid,short_word,Bulle,5,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Fichte
+","[""return""]",0,[9.367999999999995],[null],0,19,19,4,1,Wolf,4,emo_mid,short_word,Buche,5,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Pfau
+","[""return""]",0,[3.97799999999998],[null],0,20,20,11,1,Vieh,4,emo_mid,short_word,Pfau,4,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"
+
+","[""return""]",0,[2.5649999999999977],[null],0,21,21,21,1,Gorilla,7,emo_mid,long_word,Seepferd,8,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Motte
+","[""return""]",0,[3.730000000000018],[null],0,22,22,8,1,Geier,5,emo_mid,short_word,Motte,5,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Amsel
+","[""return""]",0,[7.411999999999978],[null],0,23,23,9,1,Senf,4,emo_mid,short_word,Amsel,5,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Wildkatze
+","[""return""]",0,[3.3290000000000077],[null],0,24,24,35,1,Raubtier,8,emo_mid,long_word,Wildkatze,9,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Larve
+","[""return""]",0,[3.9490000000000123],[null],0,25,25,6,1,Rohr,4,emo_mid,short_word,Larve,5,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Schlange
+","[""return""]",0,[3.9610000000000127],[null],0,26,26,24,1,Walross,7,emo_mid,long_word,Schlange,8,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Otter
+","[""return""]",0,[2.531000000000006],[null],0,27,27,16,1,Mammut,6,emo_mid,short_word,Otter,5,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"
+
+","[""return""]",0,[5.2770000000001005],[null],0,28,28,19,1,Maulwurf,8,emo_mid,long_word,Karpfen,7,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Faultier
+","[""return""]",0,[3.843999999999994],[null],0,29,29,22,1,Zwiebel,7,emo_mid,long_word,Faultier,8,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Tiger
+","[""return""]",0,[9.112000000000023],[null],0,30,30,15,1,Barsch,6,emo_mid,short_word,Tiger,5,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Vampir
+","[""return""]",0,[3],[null],0,31,31,1,1,Araber,6,emo_mid,short_word,Vampir,6,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Ratte
+","[""return""]",0,[2.251000000000033],[null],0,32,32,12,1,Lurch,5,emo_mid,short_word,Ratte,5,ima_high,short_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Fledermaus
+","[""return""]",0,[5.59699999999998],[null],0,33,33,29,1,Säugetier,9,emo_mid,long_word,Fledermaus,10,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Getreide
+","[""return""]",0,[2.8530000000000086],[null],0,34,34,20,1,Languste,8,emo_mid,long_word,Getreide,8,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,"Weißkohl
+","[""return""]",0,[3.3770000000000095],[null],0,35,35,33,1,Nashorn,7,emo_mid,long_word,Weißkohl,8,ima_high,long_word
+,,,TEST; IN02MS110624,2024-06-11_06h12.12.463,SNORE_recall_online,2023.1.3,MacIntel,62.5,,,,,,,,,,,,,,,,,,

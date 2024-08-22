@@ -5,7 +5,50 @@ Zeit,Zit
 Handel,handel
 Kopfweh,Kopfschmerz --> wrong?
 Rennwagen,Rennauto
+Ruder,Rudern
+Daune,Daune(n)? --> special case, could be solved by removing special characters/
+Reptil,Reptilien --> wrong
+Kugel,Kugeln --> keep
+Springseil,Seilspringen --> wrong
+Doppelbett,Doppelbetten --> need to increase damerau threshold to 2; if not accurate change MA01 DR_1 from 33 to 32
+Seepferd,Seepferdchen --> wrong
+Blutegel,Blutelke --> wrong
+Fisch,Barsch --> Difference only 3 letters --> Don't increase threshold higher then 2
+karren,karre
+seepferd,seepferdchen --> maybe exchange seepferd, people seem to associate more seepferdchen
 
+
+
+Todos:
+- Set up data storage process
+- Set up new directory system
+    ID
+        Memory1
+           AN99SC170624_Memory1_IR.csv --> Transfer after each session
+           AN99SC180624_Memory1_DR.csv --> Check if they did the delayed recall
+        Memory2
+           AN99SC240624_Memory2_IR.csv --> Transfer after each session
+           AN99SC250624_Memory2_DR.csv --> Check if they did the delayed recall
+
+   --> At the end of each week there will be one person who downloads the results from pavlovia,
+   puts the results into the local file system and uploads the new folder to drive
+
+
+- Save the data on the lab computer --> transfer to OneDrive once every 2 weeks
+- Through out Rosenkohl
+
+
+
+Weekly meeting:
+- How to access pavlovia
+- How to handle data storage
+- Discuss Bi-weekly data saving process
+
+
+Ideas:
+- preprocess string: remove special characters, make all letters lowercase
+- Add note that participants should use correct spelling
+- After assigning damerau distance check if response.text column is empty, if so assign value 0 to score column
 
 
 --> is this the correct awnser?
